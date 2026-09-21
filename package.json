@@ -1,0 +1,19 @@
+{
+  "name": "net.DREditorInstaller",
+  "displayName": "DREditor Installer",
+  "version": "0.1.0",
+  "unity": "6000.4",
+  "description": "Tiny Package that auto installs the scoped registry to get DREditor Packages.",
+  "author": {
+    "name": "Benjamin \"Sweden\" Jillson",
+    "url": "https://dreditor.net"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
+  "keywords": [
+    "editor",
+    "tool",
+    "dreditor"
+  ]
+}
