@@ -1,5 +1,5 @@
 {
-  "name": "com.certifiedsharp.DREditorInstaller",
+  "name": "net.dreditorInstaller",
   "displayName": "DREditor Installer",
   "version": "0.1.0",
   "unity": "6000.4",
