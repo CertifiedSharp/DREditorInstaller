@@ -8,6 +8,9 @@
     "name": "Benjamin \"Sweden\" Jillson",
     "url": "https://dreditor.net"
   },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
   "keywords": [
     "editor",
     "tool",
